@@ -20,7 +20,7 @@ Storage Drawers là một mod Minecraft giúp bạn tổ chức và quản lý k
    - Sao chép file .jar của mod vào thư mục mods trong thư mục .minecraft của bạn.
 
 3. **Tải và cài đặt Resource Pack việt hóa:**
-   - Tải Resource Pack việt hóa cho Storage Drawers từ [Github](link tại đây). (Nếu có)
+   - Tải Resource Pack việt hóa cho Storage Drawers từ [Github](https://github.com/dinhluyen93/StorageDrawers-VietHoa).
    - Mở Minecraft, vào mục Options (Cài đặt) -> Resource Packs (Bộ tài nguyên).
    - Chọn **Open Resource Packs Folder (Mở thư mục Resource Packs)**.
    - Đưa file .zip của Resource Pack việt hóa vào thư mục này.
