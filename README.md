@@ -9,7 +9,7 @@
 **Cách cài đặt Resource Pack việt hóa cho Storage Drawers trên Github:**
 
 1. **Tải Resource Pack:**
-   - Tải Resource Pack việt hóa cho Storage Drawers từ Github của bạn. Đảm bảo rằng Resource Pack đã được chuẩn bị và chứa các tệp ngôn ngữ việt hóa cho mod.
+   - Tải Resource Pack việt hóa cho Storage Drawers từ Github này. Đảm bảo rằng Resource Pack đã được chuẩn bị và chứa các tệp ngôn ngữ việt hóa cho mod.
 
 2. **Cài đặt Minecraft Forge (nếu chưa có):**
    - Nếu chưa cài đặt, bạn cần tải và cài đặt Minecraft Forge, một công cụ hỗ trợ modding Minecraft. Bạn có thể tải Forge từ [Forge Website](https://files.minecraftforge.net/) và làm theo hướng dẫn cài đặt.
