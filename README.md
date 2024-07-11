@@ -1,33 +1,37 @@
 # Storage Drawers Mod
-
+![Discord Banner 2](https://discord.com/api/guilds/1097598643931992155/widget.png?style=banner2)
 ## Giới thiệu
-Storage Drawers là một mod Minecraft giúp bạn tổ chức và quản lý kho lưu trữ vật phẩm một cách hiệu quả và thẩm mỹ. Mod này cung cấp các ngăn kéo (drawers) có khả năng lưu trữ lớn hơn và cho phép hiển thị trực quan các vật phẩm được lưu trữ, thay vì sử dụng các rương thông thường.
+
+Storage Drawers là một mod trong Minecraft giúp người chơi tổ chức và lưu trữ vật phẩm một cách hiệu quả. Mod này cung cấp nhiều loại ngăn kéo với dung lượng lưu trữ khác nhau, cho phép bạn dễ dàng quản lý và truy cập vào các vật phẩm của mình. Storage Drawers là một giải pháp lưu trữ thông minh và trực quan, giúp bạn tiết kiệm không gian và thời gian.
 
 ### Tính năng chính
-- Các ngăn kéo với khả năng lưu trữ đa dạng và sức chứa lớn.
-- Hiển thị trực quan vật phẩm trong ngăn kéo.
-- Tích hợp tốt với các mod khác và hệ thống lưu trữ tự động.
+
+- **Nhiều loại ngăn kéo:** Từ ngăn kéo đơn đến ngăn kéo đa năng, Storage Drawers cung cấp nhiều tùy chọn để phù hợp với mọi nhu cầu lưu trữ.
+- **Dung lượng lưu trữ lớn:** Các ngăn kéo có thể chứa nhiều vật phẩm hơn so với các rương truyền thống.
+- **Quản lý vật phẩm dễ dàng:** Giao diện trực quan giúp bạn dễ dàng sắp xếp và tìm kiếm vật phẩm.
+- **Tích hợp mod:** Tương thích tốt với nhiều mod khác, giúp mở rộng khả năng và tính năng của ngăn kéo.
+- **Nâng cấp và tùy chỉnh:** Ngăn kéo có thể được nâng cấp và tùy chỉnh để tăng dung lượng và tính năng.
 
 ## Hướng dẫn cài đặt
 
-### Để cài đặt và sử dụng mod Storage Drawers, làm theo các bước sau:
+### Cài đặt mod Storage Drawers và sử dụng Việt hóa:
 
-1. **Cài đặt Minecraft Forge (hoặc Fabric):**
-   - Forge (hoặc Fabric) là công cụ hỗ trợ modding Minecraft. Tải và cài đặt Forge (hoặc Fabric) từ [Forge Website](https://files.minecraftforge.net/).
+1. **Cài đặt công cụ modding Minecraft:**
+   - Tải và cài đặt [Forge](https://files.minecraftforge.net/) hoặc [Fabric](https://fabricmc.net/use/installer/).
 
 2. **Tải và cài đặt Storage Drawers Mod:**
    - Tải mod Storage Drawers từ [CurseForge](https://www.curseforge.com/minecraft/mc-mods/storage-drawers/files).
-   - Sao chép file .jar của mod vào thư mục mods trong thư mục .minecraft của bạn.
+   - Sao chép file `.jar` của mod vào thư mục `mods` trong Minecraft của bạn.
 
-3. **Tải và cài đặt Resource Pack việt hóa:**
-   - Tải Resource Pack việt hóa cho Storage Drawers từ [Github](https://github.com/dinhluyen93/Mod-StorageDrawers-VietHoa/releases).
-   - Mở Minecraft, vào mục Options (Cài đặt) -> Resource Packs (Bộ tài nguyên).
-   - Chọn **Open Resource Packs Folder (Mở thư mục Resource Packs)**.
-   - Đưa file .zip của Resource Pack việt hóa vào thư mục này.
+3. **Tải và cài đặt Storage Drawers Việt Hóa:**
+   - Tải **Resource Pack Việt hóa** cho Storage Drawers từ [Github](https://github.com/dinhluyen93/Mod-StorageDrawers-VietHoa/releases).
+   - Mở **Minecraft**, vào mục **Options** (Cài đặt) -> **Resource Packs** (Gói tài nguyên).
+   - Chọn **Open Resource Packs Folder** (Mở thư mục gói).
+   - Đưa file `.zip` của Storage Drawers Việt hóa vào thư mục này.
 
 4. **Kích hoạt Resource Pack:**
    - Quay lại Minecraft và chọn Resource Pack bạn vừa thêm vào để kích hoạt.
-   - Đảm bảo Resource Pack việt hóa đã nằm trên Storage Drawers trong danh sách Resource Packs để sử dụng các tệp ngôn ngữ việt hóa.
+   - Đảm bảo Resource Pack việt hóa đã nằm trên cùng trong danh sách Resource Packs để sử dụng các tệp ngôn ngữ việt hóa.
 
 5. **Khởi động lại Minecraft:**
    - Khởi động lại Minecraft để áp dụng các thay đổi và bắt đầu sử dụng Storage Drawers với giao diện việt hóa.
@@ -36,4 +40,4 @@ Storage Drawers là một mod Minecraft giúp bạn tổ chức và quản lý k
 Nếu bạn gặp vấn đề khi sử dụng bản dịch mod tiếng Việt hoặc có đề xuất cải tiến, vui lòng tạo [issues](https://github.com/dinhluyen93/Mod-StorageDrawers-VietHoa/issues) hoặc [pull requests](https://github.com/dinhluyen93/Mod-StorageDrawers-VietHoa/pulls) trên Github.
 
 ## Giấy phép
-Mod Storage Drawers được phát hành dưới giấy phép [GNU Lesser General Public License v3.0](https://www.gnu.org/licenses/lgpl-3.0.html).
+Mod Storage Drawers được phát hành dưới giấy phép [MIT License](https://opensource.org/licenses/MIT).
