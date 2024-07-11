@@ -12,7 +12,7 @@
    - Tải Resource Pack việt hóa cho Storage Drawers từ Github này.
 
 2. **Cài đặt Công cụ Mod (nếu chưa có):**
-   - Bạn có thể sử dụng [Forge](https://files.minecraftforge.net/) hoặc [Fabric]([https://files.minecraftforge.net/](https://fabricmc.net/use/installer/)) để cài đặt mod.
+   - Bạn có thể sử dụng [Forge](https://files.minecraftforge.net/) hoặc [Fabric](https://fabricmc.net/use/installer/) để cài đặt mod.
 
 3. **Cài đặt Storage Drawers Mod:**
    - Tải và cài đặt mod Storage Drawers vào Minecraft của bạn. Sao chép file `.jar` của mod vào thư mục mods trong thư mục `.minecraft` của bạn.
