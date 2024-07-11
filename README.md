@@ -1,5 +1,6 @@
 # Storage Drawers Mod
-![Discord Banner 2](https://discord.com/api/guilds/1097598643931992155/widget.png?style=banner2)
+[![Discord Banner 2](https://discord.com/api/guilds/1097598643931992155/widget.png?style=banner2)](https://discord.gg/scv2zKPx3g)
+
 ## Giới thiệu
 
 Storage Drawers là một mod trong Minecraft giúp người chơi tổ chức và lưu trữ vật phẩm một cách hiệu quả. Mod này cung cấp nhiều loại ngăn kéo với dung lượng lưu trữ khác nhau, cho phép bạn dễ dàng quản lý và truy cập vào các vật phẩm của mình. Storage Drawers là một giải pháp lưu trữ thông minh và trực quan, giúp bạn tiết kiệm không gian và thời gian.
@@ -38,6 +39,3 @@ Storage Drawers là một mod trong Minecraft giúp người chơi tổ chức v
 
 ## Đóng góp
 Nếu bạn gặp vấn đề khi sử dụng bản dịch mod tiếng Việt hoặc có đề xuất cải tiến, vui lòng tạo [issues](https://github.com/dinhluyen93/Mod-StorageDrawers-VietHoa/issues) hoặc [pull requests](https://github.com/dinhluyen93/Mod-StorageDrawers-VietHoa/pulls) trên Github.
-
-## Giấy phép
-Mod Storage Drawers được phát hành dưới giấy phép [MIT License](https://opensource.org/licenses/MIT).
